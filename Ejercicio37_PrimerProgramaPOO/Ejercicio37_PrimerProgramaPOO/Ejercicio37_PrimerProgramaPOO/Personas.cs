@@ -3,7 +3,7 @@
     public class Personas
     {
         //Propiedades de mi clase Personas:
-        public string Nombre { get; set; } //Forma de definir mis propiedades getters and setters
+        public string Nombre { get;  set; } //Forma de definir mis propiedades getters and setters
 
         public int Edad { get; set; }
 
